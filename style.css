@@ -3,8 +3,9 @@
   padding: 0;
 }
 
+/* Styling for 'Good Morning' page*/
 body {
-  background-color: rgb(255,134,80);
+  background-color: rgb(255, 242, 96);
 }
 
 h1 {
@@ -20,7 +21,7 @@ h1 {
   margin-top: 175px;
 }
 
-button {
+#mainButton {
   border: none;
   border-radius: 4px;
   font-family: 'Roboto', sans-serif;
@@ -30,7 +31,7 @@ button {
   background-color: rgb(17, 37, 59);
   text-align: center;
   padding: 20px 40px;
-  transition-duration: 0.3s;
+  transition-duration: 0.1s;
   margin: auto;
   display: block;
 }
